@@ -6,6 +6,7 @@ import { MainHeaderBackground } from "../MainHeaderBackground/MainHeaderBackgrou
 import { NavLink } from "../NavLink/NavLink";
 
 export const Header = () => {
+  //2
   return (
     <>
       <MainHeaderBackground />
