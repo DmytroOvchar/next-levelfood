@@ -4,7 +4,7 @@ import classes from "./page.module.css";
 import SlideShow from "../components/SlideShow/SlideShow";
 
 export default function Home() {
-  console.log("Executing");
+
   return (
     <>
       <header className={classes.header}>
